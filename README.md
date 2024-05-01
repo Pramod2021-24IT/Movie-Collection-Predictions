@@ -39,6 +39,7 @@ Performed the following tasks-
 ![image](https://github.com/Pramod2021-24IT/MNIST_Digit_Classification/assets/95674009/52b351db-1b29-48d5-b02a-b2b190490442)
 
 
+
 #
 
 ### Next Updates 
