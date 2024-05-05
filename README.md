@@ -27,9 +27,11 @@ Performed the following tasks-
 
        
 ### Tools used
-|          |
-| Python3x |
-| Jupyter Notebook |
+<ul>
+  <li style=squre>Python3x</li>
+  <li>Jupyter Notebook</li>
+</ul>
+
 
 
 ### Preview:
