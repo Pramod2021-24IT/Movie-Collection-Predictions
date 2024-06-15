@@ -10,6 +10,7 @@ This dataset contains data of movies, where our task is to predict the collectio
 
 Performed the following tasks-
 
+
 * Imported ‘Movie_collection’ csv files in data_x and data_y variables.
 * Looked at the shape and first five rows of both dataframes to understand the data
 * Splited the data into test, train, and validation
