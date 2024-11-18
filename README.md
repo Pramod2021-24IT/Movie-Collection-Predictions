@@ -8,7 +8,6 @@ This dataset contains data of movies, where our task is to predict the collectio
 
 ## Performed the following tasks:
 
-
 Performed the following tasks-
 
 * Imported ‘Movie_collection’ csv files in data_x and data_y variables.
